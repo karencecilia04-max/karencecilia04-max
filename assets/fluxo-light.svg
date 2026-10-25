@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="Como trabalho: coleta, limpeza, modelagem e entrega">
+<style>
+  .e { opacity:0; animation: in .5s ease-out forwards; }
+  @keyframes in { from { opacity:0; transform: translateY(8px); } to { opacity:1; transform:none; } }
+  @media (prefers-reduced-motion: reduce) { .e { animation:none; opacity:1; } }
+</style>
+<g class="e" style="animation-delay:0.00s">
+<rect x="30.0" y="34" width="252" height="142" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="56.0" y="72" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#0D9488">01</text>
+<rect x="56.0" y="80" width="22" height="3" rx="1.5" fill="#0D9488"/>
+<text x="56.0" y="106" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">Coleta</text>
+<text x="56.0" y="136" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#475569">PDFs, portais, APIs</text>
+<text x="56.0" y="156" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#475569">e planilhas da equipe</text>
+</g><path class="e" style="animation-delay:0.15s" d="M290.0 105 h22 m-7 -6 l7 6 l-7 6" fill="none" stroke="#475569" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><g class="e" style="animation-delay:0.25s">
+<rect x="326.0" y="34" width="252" height="142" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="352.0" y="72" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#0D9488">02</text>
+<rect x="352.0" y="80" width="22" height="3" rx="1.5" fill="#0D9488"/>
+<text x="352.0" y="106" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">Limpeza</text>
+<text x="352.0" y="136" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#475569">grafias, datas e</text>
+<text x="352.0" y="156" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#475569">valores padronizados</text>
+</g><path class="e" style="animation-delay:0.40s" d="M586.0 105 h22 m-7 -6 l7 6 l-7 6" fill="none" stroke="#475569" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><g class="e" style="animation-delay:0.50s">
+<rect x="622.0" y="34" width="252" height="142" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="648.0" y="72" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#0D9488">03</text>
+<rect x="648.0" y="80" width="22" height="3" rx="1.5" fill="#0D9488"/>
+<text x="648.0" y="106" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">Modelagem</text>
+<text x="648.0" y="136" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#475569">estimativas explicáveis</text>
+<text x="648.0" y="156" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#475569">e regras de negócio</text>
+</g><path class="e" style="animation-delay:0.65s" d="M882.0 105 h22 m-7 -6 l7 6 l-7 6" fill="none" stroke="#475569" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><g class="e" style="animation-delay:0.75s">
+<rect x="918.0" y="34" width="252" height="142" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="944.0" y="72" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#EA580C">04</text>
+<rect x="944.0" y="80" width="22" height="3" rx="1.5" fill="#EA580C"/>
+<text x="944.0" y="106" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">Entrega</text>
+<text x="944.0" y="136" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#475569">planilhas automáticas,</text>
+<text x="944.0" y="156" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#475569">painéis e relatórios</text>
+</g>
+</svg>
